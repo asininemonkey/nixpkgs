@@ -29,6 +29,6 @@ buildGoModule rec {
     description = "Adds code generation, stacks, orchestration, change detection, data sharing and more to Terraform";
     homepage = "https://github.com/terramate-io/terramate";
     license = licenses.mpl20;
-    maintainers = with maintainers; [ dit7ya ];
+    maintainers = with maintainers; [ dit7ya asininemonkey ];
   };
 }
